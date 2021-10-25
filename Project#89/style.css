@@ -1,0 +1,38 @@
+body
+{
+    background-color: midnightblue;
+}
+
+.login_div1, .login_div2
+{
+    background: azure;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#player1_input , #player2_input
+{
+    display: inline-block;
+	margin-left: 2px;
+}
+
+h1
+{
+    color: palegreen;
+}
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+h4 , span , h3
+{
+    color: darkseagreen;
+}
